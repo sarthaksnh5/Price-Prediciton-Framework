@@ -25,7 +25,7 @@ KAGGLE_KEY      = ""
    .
    ├── data/
    │   └── Amazon Sale Report.csv
-   └── pricing_analysis.py
+   └── main.py
    ```
 
 ## How to Run
