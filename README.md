@@ -31,7 +31,7 @@ KAGGLE_KEY      = ""
 ## How to Run
 Run the analysis script:
 ```bash
-python pricing_analysis.py
+python main.py
 ```
 The script will output key tables to the console and generate plots in the working directory.
 
